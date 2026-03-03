@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=mzcpp&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=mzcpp&style=pixel)
 
 <!--
 **mzcpp/mzcpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
